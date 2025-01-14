@@ -2,6 +2,10 @@
 
 A Last.FM scrobbler for SoundCloud, using the internal SoundCloud play history API for platform-agnostic scrobbling.
 
+## Why?
+
+SoundCloud scrobbling is [not officially supported](https://support.last.fm/t/soundcloud-scrobbling/176) by Last.FM, and the third party scrobblers available only work for web or Android phones. This scrobbler works regardless of listening platform.
+
 ## Setup
 
 Requires the following env vars to be set:
